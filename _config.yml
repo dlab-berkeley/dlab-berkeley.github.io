@@ -11,7 +11,10 @@ github_username: dlab-berkeley
 markdown: kramdown
 permalink: pretty
 
+sass:
+    sass_dir: .
+
 # We explicitly link components to more sensible places
-exclude:
- - bower_components
- - bower.json
+# exclude:
+#  - bower_components
+#  - bower.json
