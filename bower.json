@@ -1,0 +1,20 @@
+{
+  "name": "dlab-berkeley.github.io",
+  "version": "0.0.0",
+  "homepage": "http://dlab-berkeley.github.io",
+  "authors": [
+    "Dav Clark <davclark@berkeley.edu>"
+  ],
+  "description": "D-Lab GitHub Pages site",
+  "license": "BSD 2-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "~2.2.6"
+  }
+}

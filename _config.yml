@@ -10,3 +10,8 @@ github_username: dlab-berkeley
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# We explicitly link components to more sensible places
+exclude:
+ - bower_components
+ - bower.json
