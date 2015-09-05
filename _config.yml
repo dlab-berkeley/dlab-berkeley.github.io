@@ -12,9 +12,9 @@ markdown: kramdown
 permalink: pretty
 
 sass:
-    sass_dir: .
+    sass_dir: _sass
 
 # We explicitly link components to more sensible places
-# exclude:
-#  - bower_components
-#  - bower.json
+exclude:
+ - bower_components
+ - bower.json

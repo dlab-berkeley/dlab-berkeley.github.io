@@ -3,7 +3,6 @@
 
 // SCSS
 // @import "susy/su";
-@import "bower_components/susy/sass/susy";
+@import "susy";
 
-body { @include container(80em); }
-nav { @include span(25%); }
+body { @include span(8 of 12); }
