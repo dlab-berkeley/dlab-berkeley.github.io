@@ -2,3 +2,12 @@
 ---
 
 // SCSS
+@import "bourbon/bourbon";
+@import "neat/neat";
+
+// Dav's read is that this is fairly "standard" HTML5
+main {
+  @include outer-container;
+  article { @include span-columns(9); }
+  aside { @include span-columns(3); }
+}

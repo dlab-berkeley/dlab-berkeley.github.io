@@ -2,5 +2,13 @@
 <html>
   {% include head.html %}
   <body>
-    {{ content }}
+    <main>
+      <article>
+        {{ content }}
+      </article>
+      <aside>
+        {% include info.html %}
+      </aside>
+    </main>
   </body>
+</html>
