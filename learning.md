@@ -21,4 +21,4 @@ the details.
  - https://www.metacademy.org/roadmaps/
  - https://www.oercommons.org/
 
- - https://digitalprojectstudio.wordpress.com/
+ - [Visualization Tutorials at UMich] (https://digitalprojectstudio.wordpress.com/)
