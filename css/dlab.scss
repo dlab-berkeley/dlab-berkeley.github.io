@@ -12,7 +12,13 @@ main {
   @include outer-container;
   padding-top: 10px;
   article { @include span-columns(9); }
-  aside { @include span-columns(3); }
+  aside {
+    @include span-columns(3);
+    @include background($light-gray);
+    p {
+      margin: 10px;
+    }
+  }
 }
 
 ul {
