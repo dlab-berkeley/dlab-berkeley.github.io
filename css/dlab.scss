@@ -13,3 +13,12 @@ main {
   article { @include span-columns(9); }
   aside { @include span-columns(3); }
 }
+
+ul {
+  @extend %default-ul;
+}
+
+
+ol {
+  @extend %default-ol;
+}
