@@ -8,7 +8,6 @@ layout: default
   tutorials](http://statistics.berkeley.edu/computing/training/tutorials).
 - The Python community on campus maintains a [list of
   resources](http://python.berkeley.edu/learning_resources.html).
-{: .default}
 
 ## And beyond
 
@@ -21,7 +20,5 @@ the details.
 - https://www.goorulearning.org
 - https://www.metacademy.org/roadmaps/
 - https://www.oercommons.org/
-{: .default}
 
 - [Visualization Tutorials at UMich](https://digitalprojectstudio.wordpress.com/)
-{: .default}
