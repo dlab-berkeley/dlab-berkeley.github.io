@@ -10,6 +10,7 @@
 // Dav's read is that this is fairly "standard" HTML5
 main {
   @include outer-container;
+  padding-top: 10px;
   article { @include span-columns(9); }
   aside { @include span-columns(3); }
 }
