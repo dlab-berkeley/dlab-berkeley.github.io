@@ -7,9 +7,14 @@ D-Lab](http://dlab.berkeley.edu)'s online projects. But it'll only happen with
 community engagement - please roll up your sleeves and contribute!
 
 Assuming you have ruby installed (you should already have this on OS X 10.9+
-and most recent linux distros):
+and most recent linux distros). *If you want to push directly to the live site
+(and have permission)*:
 
     $ git clone https://github.com/dlab-berkeley/dlab-berkeley.github.io
+
+Otherwise, make a clone and do:
+
+    $ git clone https://github.com/*<your clone location>*/dlab-berkeley.github.io
     $ gem install github-pages
     $ cd dlab-berkeley.github.io
     $ jekyll serve
