@@ -6,7 +6,7 @@ This site may ultimately provide an index of the [Berkeley
 D-Lab](http://dlab.berkeley.edu)'s online projects. But it'll only happen with
 community engagement - please roll up your sleeves and contribute!
 
-Assuming you have ruby installed (you should already have this on OS X 10.9+
+Assuming you have ruby installed (and are not running on a windows machine) (you should already have this on OS X 10.9+
 and most recent linux distros). *If you want to push directly to the live site
 (and have permission)*:
 
