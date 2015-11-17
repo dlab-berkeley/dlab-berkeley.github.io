@@ -12,9 +12,9 @@ and most recent linux distros). *If you want to push directly to the live site
 
     $ git clone https://github.com/dlab-berkeley/dlab-berkeley.github.io
 
-Otherwise, make a clone and do:
+Otherwise, make a fork (there's a button at the top of the repo page) and do:
 
-    $ git clone https://github.com/*<your clone location>*/dlab-berkeley.github.io
+    $ git clone https://github.com/<your clone location>/dlab-berkeley.github.io
     $ gem install github-pages
     $ cd dlab-berkeley.github.io
     $ jekyll serve
