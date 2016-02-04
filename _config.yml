@@ -10,6 +10,7 @@ github_username: dlab-berkeley
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: true
 
 # Keeping this around even though these files don't exist...
 exclude:
