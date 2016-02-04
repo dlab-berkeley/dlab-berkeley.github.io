@@ -7,7 +7,7 @@ layout: default
 
 ## Planned
 
-{% for post in site.categories.hack-the-mic %}
+{% for post in site.posts %} <!-- we want site.categories.hack-the-mic -->
 
 <li>
     <a class="post-link"
