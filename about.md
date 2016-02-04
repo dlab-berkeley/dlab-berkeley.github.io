@@ -22,6 +22,8 @@ Otherwise, make a fork (there's a button at the top of the repo page) and do:
 **OMG YOU ARE SERVING A LOCAL COPY OF THE SITE AND YOU'LL SEE CHANGES AS YOU
 MAKE THEM!**
 
+Go to localhost:4000 to look at the website!
+
 This is just a "regular" set of text files, and you can manage them in the
 "usual" way via GitHub. You can push updates (if you have permission), create a
 fork / make pull-requests, and even make minor changes through the web.  For
