@@ -27,4 +27,5 @@ layout: default
 
 - Intelligent sensors in development/aid (DIL, Clinton Health, diabetes...?)
 - Smarts for the grid (e.g. Watttime fridges in Unit 1)
+- Entrepreneurship and incubators
 - May 25, 2016: Final meeting!
