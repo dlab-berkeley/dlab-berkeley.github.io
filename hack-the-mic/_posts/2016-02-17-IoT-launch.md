@@ -2,6 +2,8 @@
 title: Introducing Hack the Mic with IoT
 layout: post
 ---
+![Kinoma](/hack-the-mic/media/Kinoma-Create_facing-right-showing-sensors_web-res_150px.png)
+
 ## Agenda
 
 We'll have an introduction to the [Kinoma](http://kinoma.com/) platform, and talk about plans for this semester's *Hack the Mic* series, as well as future D-Lab offerings and other resources for networked sensors and other IoT-ish fun.
