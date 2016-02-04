@@ -20,18 +20,18 @@ configuring, and deploying large numbers of wireless computing nodes. The
 Kinoma platform is easily programmable using Javascript and optionally a visual
 block based programming language:
 
-- http://kinoma.com/buy/element-reserve.php
-- http://kinoma.com/create/
+- [Lock in pre-release pricing on Kinoma Element](http://kinoma.com/buy/element-reserve.php)
+- [Getting started with the super-friendly Kinoma Create](http://kinoma.com/create/)
 
 ### Discussion - 5pm
 
 This talk was organized by Javier Rosa (who will also be available at the
-session) He is an nth year Computer Science PhD student in the TIER research
-group researching the use of sensors to perform impact assessments
-interventions in emerging regions. He has deployed projects in Ethiopia on
-measuring cookstove usage, Kenya on measuring power usage (as part of a
-commercial microgrids venture), and Nicaragua on measuring whole house and
-cooling device power consumption.
+session) He is an nth year Computer Science PhD student in the [TIER research
+group](http://tier.cs.berkeley.edu/drupal/) researching the use of sensors to
+perform impact assessments interventions in emerging regions. He has deployed
+projects in Ethiopia on measuring cookstove usage, Kenya on measuring power
+usage (as part of a commercial microgrids venture), and Nicaragua on measuring
+whole house and cooling device power consumption.
 
 Additionally, other leaders of last semester's [Hacking
 Measurement](http://hackingmeasurement.berkeley.edu) class will be available to

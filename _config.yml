@@ -9,6 +9,9 @@ github_username: dlab-berkeley
 
 # Build settings
 markdown: kramdown
+kramdown:
+    input: GFM  # GitHub Flava Markdown
+    hard_wrap: false
 permalink: pretty
 future: true
 
