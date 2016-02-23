@@ -2,6 +2,9 @@
 title: Introducing Hack the Mic with IoT
 layout: post
 ---
+Lizzie was kind enough to [share her
+slides](/hack-the-mic/materials/HackTheMic-Kinoma.pdf)!
+
 ![Kinoma](/hack-the-mic/media/Kinoma-Create_facing-right-showing-sensors_web-res_150px.png)
 
 ## Agenda
